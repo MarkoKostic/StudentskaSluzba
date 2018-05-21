@@ -1,7 +1,7 @@
 # StudentskaSluzba
 Student Services - Project in Eclipse 
 
-Link for Database -> https://drive.google.com/open?id=16ZL62Rr_u7M76Gez3K7Q2a6Oe0_rzfuq
+Link to Database -> https://drive.google.com/open?id=16ZL62Rr_u7M76Gez3K7Q2a6Oe0_rzfuq
 
 Prvi deo:
 
